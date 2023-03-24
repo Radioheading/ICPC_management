@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ACM_ICPC_REAL.dir/main.cpp.o  -o ACM_ICPC_REAL 

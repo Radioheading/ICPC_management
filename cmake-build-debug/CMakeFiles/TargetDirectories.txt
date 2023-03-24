@@ -1,0 +1,3 @@
+/mnt/c/Users/18221/CLionProjects/ACM_ICPC_REAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/18221/CLionProjects/ACM_ICPC_REAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/18221/CLionProjects/ACM_ICPC_REAL/cmake-build-debug/CMakeFiles/ACM_ICPC_REAL.dir
